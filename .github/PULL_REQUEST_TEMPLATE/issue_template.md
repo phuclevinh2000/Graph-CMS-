@@ -1,5 +1,5 @@
 **Issues**
-- Description:
+- Description (quick description about the PR):
 - Link to Notion:
 - Priority:
 - Affected Area:
